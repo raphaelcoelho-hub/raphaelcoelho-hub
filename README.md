@@ -9,7 +9,20 @@ Profissional com mais de **3 anos de experiência** dedicado a garantir a qualid
 
 ---
 
-### 💻 Stack Técnica & Palavras-Chave
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+
+### Stack Técnica & Palavras-Chave
 
 * **Qualidade de Software:** Testes Funcionais, Testes Integrados, Testes de Regressão, Testes de Aceitação, UAT, Garantia da Qualidade, Gestão de Defeitos.
 * **Processos & Metodologias:** Homologação de Sistemas, Levantamento de Requisitos, Regras de Negócio, Validação de Sistemas, Roteiros de Testes, Análise Funcional, Entrada em Produção.
