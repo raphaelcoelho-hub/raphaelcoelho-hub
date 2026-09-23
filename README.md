@@ -36,5 +36,5 @@ Profissional com mais de **3 anos de experiência** dedicado a garantir a qualid
 
 ### 📫 Como entrar em contacto
 
-* **LinkedIn:** [raphael-d-assunção-coelho](https://www.linkedin.com) *(substitua pelo link direto se desejar)*
+* **LinkedIn:** www.linkedin.com/in/raphaeldcoelho
 * **Localização:** Belo Horizonte, MG — Brasil
