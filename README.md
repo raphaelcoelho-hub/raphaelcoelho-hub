@@ -1,4 +1,4 @@
-# Olá, sou o Raphael D' Assunção Coelho 👋
+# Olá, sou o Raphael D' Assunção Coelho 
 
 <p align="left">
   <strong>QA Engineer & Analista de Implantação de Sistemas</strong>
